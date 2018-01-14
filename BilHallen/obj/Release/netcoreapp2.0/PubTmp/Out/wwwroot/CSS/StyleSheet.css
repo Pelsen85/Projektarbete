@@ -1,0 +1,12 @@
+﻿.image {
+    width: 100px;
+    height: 100px;
+}
+
+.imageInfo {
+    width: 200px;
+    height: 200px;
+}
+td {
+    word-break: break-all;
+}

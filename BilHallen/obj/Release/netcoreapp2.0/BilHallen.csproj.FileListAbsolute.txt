@@ -1,0 +1,11 @@
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\bin\Release\netcoreapp2.0\BilHallen.deps.json
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\bin\Release\netcoreapp2.0\BilHallen.runtimeconfig.json
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\bin\Release\netcoreapp2.0\BilHallen.runtimeconfig.dev.json
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\bin\Release\netcoreapp2.0\BilHallen.dll
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\bin\Release\netcoreapp2.0\BilHallen.pdb
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\obj\Release\netcoreapp2.0\BilHallen.csprojResolveAssemblyReference.cache
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\obj\Release\netcoreapp2.0\BilHallen.csproj.CoreCompileInputs.cache
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\obj\Release\netcoreapp2.0\BilHallen.AssemblyInfoInputs.cache
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\obj\Release\netcoreapp2.0\BilHallen.AssemblyInfo.cs
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\obj\Release\netcoreapp2.0\BilHallen.dll
+C:\Skole\Avancerad webbutveckling\BilHallen\BilHallen\BilHallen\obj\Release\netcoreapp2.0\BilHallen.pdb
